@@ -32,4 +32,4 @@ Use the "Order Now" button on the Home section to place an order.
 Fill out the contact form in the Contact section to get in touch with the landing page administrators. (Not Working)
 
 ## Contact
-If you have any questions, feedback, or suggestions regarding the Business landing page, please feel free to contact Kunal at surajvishawakarma01@gmail.com
+If you have any questions, feedback, or suggestions regarding the Business landing page, please feel free to contact Suraj at surajvishawakarma01@gmail.com
