@@ -24,10 +24,12 @@ This is a simple business website layout built with HTML, CSS, and Bootstrap. It
 To use the MyMart landing page, follow these steps:
 
 ## Usage
-Go to - https://mymart-practic
 Clone or download the repository to your local machine.
 Open the index.html file in a web browser.
 Navigate through the landing page using the navigation bar.
 Explore the different sections, including the Home section, Services section, Clients section, and Contact section.
 Use the "Order Now" button on the Home section to place an order.
 Fill out the contact form in the Contact section to get in touch with the landing page administrators. (Not Working)
+
+## Contact
+If you have any questions, feedback, or suggestions regarding the Business landing page, please feel free to contact Kunal at surajvishawakarma01@gmail.com
